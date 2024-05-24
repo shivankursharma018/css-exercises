@@ -1,0 +1,16 @@
+.odd-ele {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.big-para {
+    font-size: 24px;
+}
+#second-ele {
+    color: blue;
+    font-size: 36px;
+}
+#fourth-ele {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
